@@ -1,3 +1,5 @@
+![logo](https://github.com/cashmita95/cashmita95/blob/main/Grey%20Modern%20Photography%20LinkedIn%20Banner.png)
+
 <h1 align="center">Greetings, I am Ashmita Mishra</h1>
 <h3 align="center">I transform unprocessed data into valuable insights</h3>
 
